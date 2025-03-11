@@ -20,7 +20,7 @@ class WebViewerApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Ships Log Viewer",
+      title: "Ships Log Viewer v2",
       theme: ThemeData(primarySwatch: Colors.blue),
       home: AuthWrapper(),
     );
